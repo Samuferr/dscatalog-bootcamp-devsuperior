@@ -1,7 +1,8 @@
 import React from 'react';
+import Navbar from './Navbar';
 
 const Admin = () => (
- <h1>Admin</h1>
+ <Navbar />
 );
 
 export default Admin;
